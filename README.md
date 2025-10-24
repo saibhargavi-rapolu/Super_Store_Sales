@@ -1,5 +1,4 @@
-# Elevate-labs-Task-2
-Data Visualization and Storytelling
+# Data Visualization and Storytelling
 
 ## Objective
 Create compelling visualizations using Power BI to analyze SuperStore Sales data and communicate business insights effectively.
